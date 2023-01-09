@@ -18,7 +18,7 @@ Similarly, pandas, seaborn, matplotlib, sklearn and numpy can be installed
 ## To run: 
 1. Download all of the python scripts in the repository along with sample data files into a single repository. 
 
-2. Run the codes in the script 
+2. Run the codes in the script in python (otters.py) or in Jupyter notebook (otters.ipynb)
 
 3. Analysis of 2 variables 
 
