@@ -8,8 +8,8 @@ The scripts is written in python which is used for statistical analysis needed f
 ## Modules required to run the code ##
 
 researchpy is available via pip and through conda for installation
-To install using pip use: pip install researchpy
-To install using conda use: conda install -c researchpy researchpy
+       *) To install using pip,     use: pip install researchpy
+       *) To install using conda,   use: conda install -c researchpy researchpy
 Similarly, pandas, seaborn, matplotlib, sklearn and numpy can be installed
 
 ## To run: 
