@@ -50,7 +50,7 @@ sns.catplot(data=otters, x="Age", y="BonePb", col="Sex", kind="box")
 ## 4. SPATIAL AND TEMPORAL VARIATION OF LEAD IN THE BONES OF THE OTTERS ##
 # Using relplot from seaborn the variation in lead in different regions was studied and the change in the content of the lead in bones over the years
 sns.relplot(
-    data = otters, x="Year", y="BonePb", col = "region", kind = "scatter", hue = "Sex", ax=ax
+    data = otters, x="Year", y="BonePb", col = "region", kind = "scatter", hue = "Sex"
 )
 sns.relplot(data=otters, x="Year", y="BonePb", kind = "line")
 
