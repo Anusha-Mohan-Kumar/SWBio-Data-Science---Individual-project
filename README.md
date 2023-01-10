@@ -13,7 +13,7 @@ researchpy is available via pip and through conda for installation
        
        *) To install using conda,   use: conda install -c researchpy researchpy
        
-Similarly, pandas, seaborn, matplotlib, sklearn and numpy can be installed
+Similarly, pandas, seaborn, matplotlib, scikit-learn and numpy can be installed
 
 ## To run: 
 1. Download all of the python scripts in the repository along with sample data files into a single repository. 
